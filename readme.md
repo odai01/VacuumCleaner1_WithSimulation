@@ -1,6 +1,6 @@
 # Assignment 1 - Vacuum Cleaner Simulation
 ## Contributors
-- [Odai Agbaria: 212609440, Mohammad mahamid:322776063]
+ Odai Agbaria, Mohammad mahamid
 
 ## Overview
 This project is a simulation of a vacuum cleaner that navigates a house to clean dirt. The vacuum cleaner's path and behavior are determined by a cleaning algorithm. The simulation reads input from a text file describing the house layout, and it outputs the cleaning steps and results to a text file. Additionally, a Pygame-based visualization is provided to animate the cleaning process.
@@ -46,4 +46,4 @@ you can see the provided input and output example provided with the assignment f
 
 
 
-                              ## Hope you enjoy the simulation ##
+                                         ## Hope you enjoy the simulation ##
