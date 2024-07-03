@@ -37,11 +37,11 @@ The output file will contain:
 
 you can see the provided input and output example provided with the assignment files.
 ## How to Build and Run
-1. **Building the Project**: first of all write: make 
+1. **Building the Project**:   first of all write: make 
     (Ensure you have `g++` version 11.4 or above installed on your system.)
-2. **Running the Project**: then write: ./myrobot input_a.txt  
-    This will produce an output file named output_input_a.txt and two JSON files.
-3. **Running the Visualization**: then write: python visualize.py  
+2. **Running the Project**: then write:   ./myrobot input_a.txt (or any text file <input_file>.txt ) 
+    This will produce an output file named output_input_a.txt (output_<input_file>.txt) and two JSON files.
+3. **Running the Visualization**:   then write: python visualize.py  
     (Ensure you have Python and Pygame installed on your system)
 
 
